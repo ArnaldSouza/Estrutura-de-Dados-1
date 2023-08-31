@@ -1,0 +1,19 @@
+//declaração de bibliotecas
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+#include <string.h>
+#include <math.h>
+#include <stdbool.h>
+
+/*  */
+
+//função main
+int main(){
+
+  setlocale(LC_ALL, ""); //para poder fazer o uso de caracteres especiais
+
+  //declaração de variaveis
+
+  return 0;
+}//main
